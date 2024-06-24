@@ -1,0 +1,38 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "FrasesIntent",
+          "samples": [
+            "donne moi un fait amusant sur Aston Martin",
+            "parlez moi d\u0027Aston Martin"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "donne moi des faits interessants"
+    }
+  }
+}
